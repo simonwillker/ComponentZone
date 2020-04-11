@@ -1,0 +1,8 @@
+# salsesforce files
+.sfdx
+
+# visual Studio Code files
+.vscode
+
+# MacOS System.files
+.DS_Store
